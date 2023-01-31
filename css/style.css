@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+section{
+    font-size: 2rem;
+}
+.title{
+    /* = 24px */
+    font-size: 2rem;
+    margin-bottom: 1em;
+}
+.titile-em{
+    font-size: 1,5em;
+}
+.btn{
+    background-color: red;
+    padding: 1em;
+}
+.btn-large{
+    font-size: 2rem;
+    
+}
+.btn-small{
+    font-size: 1rem;
+}
